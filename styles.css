@@ -1,0 +1,27 @@
+body {
+	font-family: 'Roboto Condensed', sans-serif;
+  	background: url('https://img2.goodfon.com/wallpaper/nbig/a/20/tmnt-teenage-mutant-ninja-4086.jpg') no-repeat;
+    background-color: black;
+  	background-size: cover;
+    color: white;
+    background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.center {
+    display: flex;
+    justify-content: space-around;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.error {
+	color: red;
+    background-color: white;
+}
+
+.logo {
+	width: 150px;
+}
